@@ -28,13 +28,14 @@ library(netmhc2pan)
 
 This demo assumes NetMHCIIpan is installed.
 Installation cannot be done `netmhc2pan`, as one needs
-to request a download link at 
-[https://www.cbs.dtu.dk/services/NetMHCIIpan/](https://www.cbs.dtu.dk/services/NetMHCIIpan).
+to request a download link for version 3.2 at 
+[https://services.healthtech.dtu.dk/services/NetMHCIIpan-3.2/](https://services.healthtech.dtu.dk/services/NetMHCIIpan-3.2/).
 
 To install `netmhc2pan`, use `install_netmhc2pan` with the download link:
 
 ```
 install_netmhc2pan("https://www.cbs.dtu.dk/download/33A6B0AC-0F2E-11E9-B4D1-8ABCB9CD16B5/")
+install_netmhc2pan("https://richelbilderbeek.nl/tmp_netMHCIIpan-3.2.Linux.tar.gz")
 ```
 
 The installation of `netmhc2pan` is checked, with
