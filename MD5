@@ -1,4 +1,4 @@
-53852896b4cc2e1efcf71c48ebd75c4e *DESCRIPTION
+19b040bf766122ba148d031fd3a7aeaf *DESCRIPTION
 ad2e38c87a0bcfb35ae1322eb88ebd97 *NAMESPACE
 7ec51f8472d1489e72891ab1102e82d4 *R/capitalize_first_char.R
 6daa13e801af691177d7d14f73a3b5df *R/check_alleles.R
@@ -31,8 +31,8 @@ d1de46c6f7bf687c5f236d8dd465ede4 *R/is_netmhc2pan_haplotype.R
 08c203444dbbf435eadfe9029625de73 *R/is_netmhc2pan_installed.R
 34c01bdc973511f1009dc8ec18fb9db1 *R/is_on_ci.R
 ff0659adb4db676f4e2962a01f5f8c5e *R/is_url_valid.R
-680d0fb02e000412dcce2423a7ca114b *R/netmhc2pan.R
-a51aab22762f1056e2c3844b42125e0c *R/netmhc2pan_report.R
+890621371e4007d3f5d39fe5fd8f3b42 *R/netmhc2pan-package.R
+4df26e7bf84bd7c2b04528e6c7b56aad *R/netmhc2pan_report.R
 d8698237247d7baeb1b5763546135405 *R/netmhc2pan_self_test.R
 04446c8adcb2472a95c15719ad33fe32 *R/predict_ic50.R
 e60b1ba80279f14bcc51baeee1b413a4 *R/predict_ic50s.R
@@ -41,11 +41,11 @@ d1c2b4804d8b99253f9d837463f98b7a *R/read_netmhc2pan_xls_output.R
 316d5a0bf268fc6fe9fd98f590b3c3eb *R/set_up_netmhc2pan.R
 4c9ad0bdaca8fdca1cf1c810ac9e9c4d *R/to_netmhc2pan_name.R
 d3cd80c979eabccd035b49af308e2409 *R/uninstall_netmhc2pan.R
-0cf581f17d03a5e360725e6cc3105d60 *build/vignette.rds
+2989f3a28b71b41a2e12da742f10df8b *build/vignette.rds
 56a829b026cc3aea8e852eadf1a8d055 *inst/WORDLIST
 633084a627f8a8e0d4983963535b5a1c *inst/doc/demo.R
 66bfae021c78506278be064fe3ffa672 *inst/doc/demo.Rmd
-3f9bdfe262bb9236a22751fb3c9467d3 *inst/doc/demo.html
+13e5a9a6d8cba9bfe7b7284cfb60ba67 *inst/doc/demo.html
 7cde1dda74615b7dd17782f4b0f203bf *inst/extdata/example.fasta
 1fd09d4fc0e7dbc24a0529414fac8ecb *inst/extdata/example.xls
 1ce22bcc86b5a79a32cb361b60483229 *inst/extdata/example2.fasta
@@ -68,7 +68,6 @@ d6d2f482355628e034f1bbb3cdb4384e *man/download_netmhc2pan_bin.Rd
 f7de71e5ff24145a37bf281e4d155cfa *man/figures/AppVeyor.png
 3f25ab37a1f6270f76c025cf6eda5421 *man/figures/Codecov.png
 b55c56f3943a394162527954ca4a3009 *man/figures/GitHubActions.png
-4f9bce317a2b82518737a7ee7381c2ec *man/figures/TravisCI.png
 13e6d9410ae90889b99985d9fc94a335 *man/get_default_netmhc2pan_bin_path.Rd
 fb55b94a6d7b9e2292c368335d36fa0b *man/get_default_netmhc2pan_bin_tarfile_path.Rd
 222b24f602b581bf08cecc0c792fefc6 *man/get_default_netmhc2pan_folder.Rd
